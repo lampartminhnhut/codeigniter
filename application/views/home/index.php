@@ -73,14 +73,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<table style="width: 500px; margin: 0 auto">
 		<tbody>
 			<tr>
-				<td><a href="">Contract</a></td>
-				<td><a href="">Information</a></td>
-				<td><a href="">Product</a></td>
+    			<td><a href="">Contract</a></td>
+    			<td><a href="">Information</a></td>
+    			<td><a href="">Product</a></td>
 			</tr>
 			<tr>
-				<td><a href="">User</a></td>
-				<td><a href="">Admin</a></td>
-				<td><a href="">Payment</a></td>
+    			<td><a href="">User</a></td>
+    			<td><a href="">Admin</a></td>
+    			<td><a href="">Payment</a></td>
 			</tr>
 			<tr>
 				<td><a href="">Delivery</a></td>
@@ -89,6 +89,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</tr>
 		</tbody>
 	</table>
+<!-- [Start][thanh_phong][buoc_5] -->
+    A product needs a name: 
+    <br>
+	A name that people remember and relate to. A product with a name becomes a brand. It helps it stand out from the clutter of products and names.
+	<br>
+	A product should be adaptable:
+	<br> 
+	With trends, time and change in segments, the product should lend itself to adaptation to make it more relevant and maintain its revenue stream.
+<!-- [End][thanh_phong][buoc_5] -->
 </div>
 </body>
 </html>
