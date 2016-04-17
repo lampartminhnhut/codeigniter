@@ -89,6 +89,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</tr>
 		</tbody>
 	</table>
+<!-- [Start][chi_cong][buoc_4] -->
+    <div>
+    Description: A product needs to be relevant: the users must have an immediate use for it. A product needs to be functionally able to do what it is supposed to, and do it with a good quality.
+    <br>
+    A product needs to be communicated: Users and potential users must know why they need to use it, what benefits they can derive from it, and what it does difference it does to their lives. Advertising and 'brand building' best do this.
+    </div>
+<!-- [End][chi_cong][buoc_4] -->
 <!-- [Start][thanh_phong][buoc_5] -->
     A product needs a name: 
     <br>
