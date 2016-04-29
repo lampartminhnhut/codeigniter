@@ -4,7 +4,7 @@
 
 
 
-asjkdbkjsabfkjsf
+
 
 
 
@@ -96,6 +96,8 @@ switch (ENVIRONMENT)
         {
             error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_USER_NOTICE);
         }
+
+
 
 
     break;
@@ -235,7 +237,11 @@ switch (ENVIRONMENT)
         exit(3); // EXIT_CONFIG
     }
 
-
+/*
+ * -------------------------------------------------------------------
+ *  Now that we know the path, set the main path constants
+ * -------------------------------------------------------------------
+ */
     // The name of THIS file
     define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));
 
