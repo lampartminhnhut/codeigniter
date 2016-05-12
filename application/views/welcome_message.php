@@ -68,6 +68,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
+
+<!-- #002 start nhut -->
+    <h1>Welcome to task 004</h1>
+<!-- #002 start nhut -->
+
 <!-- #002 start nhut -->
     <h1>Welcome to Tran minh nhut!</h1>
 <!-- #002 start nhut -->
