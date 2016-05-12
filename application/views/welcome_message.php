@@ -68,8 +68,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-    <h1>Welcome to CodeIgniter!</h1>
-
+<!-- #002 start nhut -->
+    <h1>Welcome to Tran minh nhut!</h1>
+<!-- #002 start nhut -->
     <div id="body">
         <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 <!-- #001 start nhut -->
